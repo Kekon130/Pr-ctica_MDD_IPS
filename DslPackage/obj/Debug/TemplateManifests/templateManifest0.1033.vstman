@@ -1,0 +1,32 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\1033\SGCJLPSPG_Weber</RelativePathOnDisk>
+    <TemplateFileName>CSharp.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <TemplateID>{be0de072-5b52-44ad-9ff6-caf27da51dbc}</TemplateID>
+        <Name Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="103" />
+        <Description Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="102" />
+        <Icon Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="201" />
+        <ProjectType>CSharp</ProjectType>
+        <SortOrder>360</SortOrder>
+        <DefaultName>SGCJLPSPG_Weber.SGCJLPSPG_DSLWeber</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>VisualBasic\1033\SGCJLPSPG_Weber</RelativePathOnDisk>
+    <TemplateFileName>VisualBasic.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <TemplateID>{665ad22c-c55e-4435-aed5-c7374503c810}</TemplateID>
+        <Name Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="103" />
+        <Description Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="102" />
+        <Icon Package="{132debac-0e62-4baa-8583-1d11e894368a}" ID="201" />
+        <ProjectType>VisualBasic</ProjectType>
+        <SortOrder>360</SortOrder>
+        <DefaultName>SGCJLPSPG_Weber.SGCJLPSPG_DSLWeber</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

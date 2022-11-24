@@ -1,0 +1,16 @@
+﻿<#@ template inherits="Microsoft.VisualStudio.TextTemplating.VSHost.ModelingTextTransformation" #>
+<#@ output extension=".txt" #>
+<#@ SGCJLPSPG_Weber processor="SGCJLPSPG_WeberDirectiveProcessor" requires="fileName='Sample.SGCJLPSPG_DSLWeber'" #>
+
+Generated material. Generating code in C#.
+
+<#
+  // When you change the DSL Definition, some of the code below may not work.
+
+  foreach (ExampleElement element in this.ExampleModel.Elements)
+  {
+#>
+	<#= element.Name #>
+<#    
+  }
+#>
